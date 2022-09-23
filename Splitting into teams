@@ -1,0 +1,4 @@
+#python
+a=int(input())
+b=int(input())
+print(f'the number of students in each team is {a//b} and left out is {a%b}')
