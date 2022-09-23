@@ -1,0 +1,11 @@
+a=int(input())
+l=int(input())
+b=int(input())
+r=float(input())
+print(a**2)
+print(l*b)
+area=3.14*r*r
+print(round(area,2))
+
+
+
